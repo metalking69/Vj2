@@ -14,7 +14,7 @@
     "engines": {
         "node": "10.16.0",
         "npm": "6.9.0"
-     }
+     },
     "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
